@@ -11,7 +11,11 @@ $ pip install -r requirements.txt
 ```
 
 Add API_TOKEN in file config.ini</br>
-API_TOKEN = <API TOKEN from bot father></br>
+`.env`
+```script
+API_TOKEN = <API TOKEN from bot father>
+```
+
 
 ```bash
 $ python3 bot.py
