@@ -18,7 +18,7 @@ API_TOKEN = <API TOKEN from bot father>
 
 
 ```bash
-$ python3 bot.py
+$ python bot.py
 ```
 
 
