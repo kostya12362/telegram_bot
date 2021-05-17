@@ -10,8 +10,8 @@ $ cd telegram_bot
 $ pip install -r requirements.txt
 ```
 
-Add API_TOKEN in file config.ini</br>
-`.env`
+Add API_TOKEN in file `config.ini`</br>
+
 ```script
 API_TOKEN = <API TOKEN from bot father>
 ```
